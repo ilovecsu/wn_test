@@ -1,4 +1,4 @@
 # -*- coding: utf-8 -*
 
 print("hello world")
-print("这是分支a")
+print("这是主分支")
